@@ -1,0 +1,110 @@
+.bg1 {
+	background-color: #121110;
+}
+.sec-title > h2,
+p,
+.title > h2,
+.sm-title,
+.app-txt > h2,
+.app-txt p,
+.app-btns li a,
+.app-btns li a h4 span,
+.footer-widgets p, 
+.footer-widgets span,
+header nav ul li a,
+header .social-links li a,
+.banner-content .lnk-default,
+.logo > h2,
+.about-info > h2,
+.about-info p,
+header.v2.sticky nav ul li a, 
+header.v2.sticky .social-links li a,
+.blog-info > .meta + h2,
+.marlon-pagination nav ul li a,
+.about-info > h2,
+.about-info p,
+.meta-links li span,
+.meta-div > span,
+.blog-author h3,
+.comments-section > h3,
+.author-info > h3,
+.cm-info > h3,
+.post-comment > h3,
+.widget-title,
+.wd-info > h3,
+.tags li a,
+.ld-btn:hover,
+.landing-page .sec-v-title h2,
+.blog-post.single .blog-info h2,
+.chef-info > h3,
+.title-v2 > h2,
+.food-item-info > h4,
+.app-btns li a i {
+	color: #fff;
+}
+.sec-title:before {
+	background-color: #818080;
+}
+
+body {
+	background-color: #000000;
+}
+
+.bg2 {
+	background-color: #121110;
+}
+
+.app-txt > span {
+	color: #35cd8c;
+}
+.app-btns li a {
+	border-color: #fff;
+}
+
+
+.testi-slide {
+	background-color: #121110;
+}
+
+.form-submit button {
+	background-color: #35cd8c;
+}
+.form-field select, .form-field input {
+	background-color: transparent;
+}
+.bg4 {
+	background-color: #121110;
+}
+.testi-slide > p,
+.blog-info p {
+	color: rgba(255,255,255,0.80);
+}
+.food-menu-items .slick-prev,
+.food-menu-items .slick-next {
+	background-image: url(../images/right2.png);
+}
+
+
+
+
+header .menu-btn > span {
+	background-color: #fff;
+}
+header nav ul ul li a {
+	color: #000;
+}
+.form-submit button:hover {
+	background-color: #fe043c;
+}
+.marlon-pagination nav ul li a {
+	background-color: #fff;
+	color: #000;
+}
+header.sticky nav ul li a {
+	color: #000;
+}
+
+header.sticky .logo > h2,
+header.sticky .social-links li a {
+	color: #35cd8c;	
+}
